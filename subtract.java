@@ -12,6 +12,7 @@ public class subtract {
         int y= sc.nextInt();
         sc.close();
         int diff=x-y;
+        System.out.println("the diff is ");
         System.out.println(diff);
 
     }

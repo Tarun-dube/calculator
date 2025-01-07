@@ -9,6 +9,7 @@ public class division {
         int y= sc.nextInt();
         sc.close();
         int div=x/y;
+        System.out.println("the value is ");
         System.out.println(div);
 
     }

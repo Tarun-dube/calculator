@@ -8,6 +8,7 @@ public class addition {
         System.out.println("enter the first number");
         int y= sc.nextInt();
         sc.close();
+        System.out.println("the sum is ");
         int sum=x+y;
         System.out.println(sum);
 

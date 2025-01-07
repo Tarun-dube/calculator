@@ -9,6 +9,7 @@ public class multiplication {
         int y= sc.nextInt();
         sc.close();
         int total=x*y;
+        System.out.println("the total value is ");
         System.out.println(total);
 
     }
